@@ -40,7 +40,7 @@ AWS professionals help build and maintain cloud applications Some popular cloud 
 
 It's super easy - every day, come back to this checklist and tick off the next project on the list:
 
-- [x] Before you start: [Set Up an AWS Account](Project-Portofolio/01. Set Up an AWS Account.md)
+- [x] Before you start: [Set Up an AWS Account](https://github.com/ngurahgdewisnugk/AWS-Beginners-Challange-/blob/5a73a8eaf4f0408a7cd528ba181f6de46808b6d7/Project-Portofolio/01.%20Set%20Up%20an%20AWS%20Account.md)
 - [x] Day #1 [Host a Website on Amazon S3](xxx)
 - [x] Day #2 [Cloud Security with AWS IAM](xxx)
 - [x] Day #3 [Build a Virtual Private Cloud](xxx)
