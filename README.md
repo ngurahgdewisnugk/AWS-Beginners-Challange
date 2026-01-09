@@ -42,7 +42,7 @@ It's super easy - every day, come back to this checklist and tick off the next p
 
 - [x] Before you start: [Set Up an AWS Account](https://github.com/ngurahgdewisnugk/AWS-Beginners-Challange-/blob/5a73a8eaf4f0408a7cd528ba181f6de46808b6d7/Project-Portofolio/01.%20Set%20Up%20an%20AWS%20Account.md)
 - [x] Day #1 [Host a Website on Amazon S3](https://github.com/ngurahgdewisnugk/AWS-Beginners-Challange-/blob/8908fdb6cdb30c79775092c9df5e888eb0ece943/Project-Portofolio/02.%20Host%20a%20Static%20Website%20on%20Amazon%20S3.md)
-- [x] Day #2 [Cloud Security with AWS IAM](xxx)
+- [x] Day #2 [Cloud Security with AWS IAM](https://github.com/ngurahgdewisnugk/AWS-Beginners-Challange-/blob/8005cf666fe374b97bdfc2cbefd2ca2b75bf84c9/Project-Portofolio/03.%20Cloud%20Security%20with%20AWS%20IAM.md)
 - [x] Day #3 [Build a Virtual Private Cloud](xxx)
 
 ---
