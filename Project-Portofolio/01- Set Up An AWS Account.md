@@ -65,7 +65,8 @@ In this step, I will log in to the AWS Console, navigate to Billing Preferences,
 
 ### Why usage alerts matter
 
-I set up usage alerts because AWS will email me when my usage reaches 85% of a Free Tier limit. This proactive alert gives me time to stop or adjust my resources before any unexpected charges occur, protecting me from surprise bills.
+I set up usage alerts because AWS will email me when my usage reaches 85% of a Free Tier limit. This proactive alert gives me time to stop or adjust my resources before any unexpected charges occur, protecting me from surprise bills
+
 ---
 
 *Built with [NextWork](https://nextwork.ai) - [View this project](https://nextwork.ai/projects/90e42921-e1f4-5c44-8a1f-394b21d79093)*
